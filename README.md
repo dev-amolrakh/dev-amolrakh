@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amol Rakh</h1>
 <h3 align="center">A passionate Full stack, AIML and DevOps developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-amolrakh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-amolrakh" /> </p>
 
 ## About Me
 
@@ -15,7 +16,6 @@ I am a software developer with a keen interest in data science and web technolog
 
 - 📫 How to reach me **amolrakh22@gmail.com**
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-amolrakh&label=Profile%20views&color=0e75b6&style=flat" alt="dev-amolrakh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-amolrakh" /></a> </p>
 
