@@ -1,6 +1,5 @@
-## Hi there! 👋
-
-I'm **Amol Rakh**, a passionate developer who loves to explore new technologies and build impactful projects. Welcome to my GitHub profile! 🚀
+<h1 align="center">Hi 👋, I'm Amol Rakh</h1>
+<h3 align="center">A passionate Full stack, AIML and DevOps developer from India</h3>
 
 ## About Me
 
@@ -21,6 +20,14 @@ I am a software developer with a keen interest in data science and web technolog
 - [Mainflow-Tasks](https://github.com/dev-amolrakh/Mainflow-Tasks) - Internship on data science using Python. **Stars:** 1, **Language:** HTML
 - [amolrakhA22](https://github.com/dev-amolrakh/amolrakhA22) - Config files for my GitHub profile. **Stars:** 4
 - [DBMS-AI-codes](https://github.com/dev-amolrakh/DBMS-AI-codes) - Codes related to Database Management and AI. **Stars:** 0, **Language:** Python
+
+## Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/amolrakha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amolrakha22" height="30" width="40" /></a>
+<a href="https://kaggle.com/amoldevidasrakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amoldevidasrakh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amolrakh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amolrakh22" height="30" width="40" /></a>
+</p>
 
 ## GitHub Stats
 
