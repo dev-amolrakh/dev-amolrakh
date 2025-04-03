@@ -71,6 +71,10 @@ I am a software developer with a keen interest in data science and web technolog
 👤 **Following:** 23  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)
 
+# My GitHub Achievements 🏆
+![Pull Shark](https://github.com/dev-amolrakh/dev-amolrakh/raw/main/images/pull-shark.png)
+![Starstruck](https://github.com/dev-amolrakh/dev-amolrakh/raw/main/images/starstruck.png)
+
 ## Recent Activity
 
 - ⭐️ Published Paper In OpenCV [link](https://journals.tultech.eu/index.php/jtse/article/view/202) 
