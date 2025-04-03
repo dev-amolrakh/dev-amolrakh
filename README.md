@@ -52,9 +52,6 @@ I am a software developer with a keen interest in data science and web technolog
 - ⭐️ Watched [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)  
 - ⭐️ Watched [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
