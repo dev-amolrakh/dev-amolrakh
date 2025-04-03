@@ -56,6 +56,9 @@ I am a software developer with a keen interest in data science and web technolog
 
 Currently, I do not have any blog posts. Stay tuned for updates!
 
-## Connect with Me
-
-{}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amolrakha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amolrakha22" height="30" width="40" /></a>
+<a href="https://kaggle.com/amoldevidasrakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amoldevidasrakh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amolrakh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amolrakh22" height="30" width="40" /></a>
+</p>
