@@ -47,9 +47,9 @@ I am a software developer with a keen interest in data science and web technolog
 
 ## Recent Activity
 
-- ⭐️ Watched [pathwaycom/pathway](https://github.com/pathwaycom/pathway)  
-- ⭐️ Watched [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)  
-- ⭐️ Watched [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
+- ⭐️ Published Paper In OpenCV [link](https://journals.tultech.eu/index.php/jtse/article/view/202) 
+- ⭐️ Launched a Project Called NyayVaani [Documentation](https://drive.google.com/file/d/17U7bf3zzod9cFAY_0FN5Iz6T0ShAnKCr/view) and [Audio Podcast](https://drive.google.com/file/d/1UMqx6FpjAOxEWjwrtFyYtvIrTZSD-OF8/view) 
+- ⭐️ Leetcode
 
 
 <h3 align="left">Connect with me:</h3>
