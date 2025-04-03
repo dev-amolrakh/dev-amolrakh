@@ -25,11 +25,10 @@ I am a software developer with a keen interest in data science and web technolog
 
 ## Top Projects
 
-- [AI-College-Enquiry-Chatbot](https://github.com/dev-amolrakh/AI-College-Enquiry-Chatbot) - Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript
-- [MYCodingmodels](https://github.com/dev-amolrakh/MYCodingmodels) - All types of basic codes within different Programming languages. **Stars:** 2, **Language:** C++
-- [Mainflow-Tasks](https://github.com/dev-amolrakh/Mainflow-Tasks) - Internship on data science using Python. **Stars:** 1, **Language:** HTML
-- [amolrakhA22](https://github.com/dev-amolrakh/amolrakhA22) - Config files for my GitHub profile. **Stars:** 4
-- [DBMS-AI-codes](https://github.com/dev-amolrakh/DBMS-AI-codes) - Codes related to Database Management and AI. **Stars:** 0, **Language:** Python
+- Vidhur - AI-College-Enquiry-Chatbot, Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript [Live Link:](https://vidhur.netlify.app/)
+- NyayVaani: Bridging Legal Information and Expertise. [Live Link: ](https://nyay-vaani.vercel.app/)
+- Samku Services a fully solutions for Your Vehicle Book Service and Buy EV Parts.
+- BHOJANAM - The sustainable breakfast cereals and beverages initiative is a groundbreaking project under the ANNAM (AI-driven sustainable food systems) platform. [Live Link: ](https://bhojanam-starhaus.netlify.app/)
 
 ## Connect with me
 
