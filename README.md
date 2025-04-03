@@ -72,9 +72,9 @@ I am a software developer with a keen interest in data science and web technolog
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)
 
 ## My GitHub Achievements 🏆
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23181717.svg?&logo=github&logoColor=white)
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-%23181717.svg?&logo=github&logoColor=white)
-![My Achievement](https://github.com/dev-amolrakh/achievements/pull-shark/badge.svg)
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+![Yolo](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![Gitty](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 
 
