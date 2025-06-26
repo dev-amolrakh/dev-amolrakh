@@ -5,7 +5,7 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="200" height="200">
   &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" alt="Dojocat" width="200" align="right" height="200">
+  <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" alt="Dojocat" width="200" align="right" height="150">
 </p>
 
 
