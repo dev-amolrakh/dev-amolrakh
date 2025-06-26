@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amol Rakh</h1>
 <h3 align="center">A passionate Full stack, AIML and DevOps developer from India</h3>
+<p align="left"><img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/fullstack.png" alt="fullstack" width="200" height="200"></p>
 <p align="center"><img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Yaktocat" width="200" height="200"></p>
 
 ## About Me
