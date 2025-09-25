@@ -6,7 +6,10 @@
  
 </p>
 
-![Amol's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true)
+### 📊 Contribution Graph
+
+![Amol's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true)
+
 
 
 
