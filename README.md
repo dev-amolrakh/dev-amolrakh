@@ -10,7 +10,7 @@
 ![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true)
 
 <p align="center">
-  <h2>🏆 LeetCode Heatmap</h2><br>
+  <b><h2>🏆 LeetCode Heatmap</h2> </b><br>
   <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap"/>
 </p>
 
