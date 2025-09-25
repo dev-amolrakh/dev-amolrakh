@@ -12,18 +12,21 @@
 
 ### 🏆 LeetCode Stats
 
+### 🏆 LeetCode Stats
+
 <table>
   <tr>
-    <!-- Left: Stats (bars + numbers) -->
+    <!-- Left: Stats -->
     <td>
       <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" />
     </td>
     <!-- Right: Heatmap only -->
     <td>
-      <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap" />
+      <img src="https://leetcode-badge-showcase.vercel.app/api/heatmap/amolrakh22?theme=dark" alt="LeetCode Heatmap" />
     </td>
   </tr>
 </table>
+
 
 
 
