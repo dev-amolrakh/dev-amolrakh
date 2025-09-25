@@ -27,109 +27,98 @@ I am a software developer with a keen interest in data science and web technolog
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-amolrakh" /></a> </p>
 
-# 🚀 Stack
-
 <div align="center">
+  
+# 🌸 Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,express,react,typescript,javascript,nuxtjs,vue,blender,nginx,kubernetes,docker,linux,figma,bash,git,github,aws,gitlab,cloudflare,vscode" />
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,kafka,unity,threejs,graphql,tailwind,css,html,sass" />
+</p>
 
 </div>
 
 ---
 
+<div align="center">
+
+### ▼ ▼ More tools (click)
+
+</div>
+
 <details>
-<summary><b>🔧 Backend</b></summary>
+<summary><div align="center"><b>🔧 Backend</b></div></summary>
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+Node.js (Express/NestJS/Fastify), Python (FastAPI/Django)  
+gRPC/REST, WebSockets, OAuth/OIDC, JWT  
+Rate-limiting, Caching, CORS, Idempotency/Outbox
 
+</div>
 </details>
 
 <details>
-<summary><b>🎨 Frontend</b></summary>
+<summary><div align="center"><b>🌸 Frontend</b></div></summary>
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+React/Next.js (SSR/ISR), Vue/Nuxt, TypeScript  
+Zustand, React Query, RHF/Zod  
+Tailwind, Vite/Webpack, PWA  
+Playwright, Cypress, Jest, Storybook
 
+</div>
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Storage</b></summary>
+<summary><div align="center"><b>👓 XR / GameDev</b></div></summary>
+<div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Unity (URP), Proton RUN  
+WebXR (8th Wall/Zappar/AR.js)  
+Three.js/PlayCanvas  
+GLTF/KTX2/Basis, Meshopt, Baked GI  
+Shaders (HLSL/Shader Graph)
 
+</div>
 </details>
 
 <details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><div align="center"><b>🔗 Web3</b></div></summary>
+<div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+Solidity (Hardhat/Foundry), ERC-20/721/1155/4337, EIP-712  
+Ethers.js/Viem, The Graph, ChainLink  
+WalletConnect/MetaMask, L2 (Op/Arb/zkSync)  
+Alchemy/Infura
 
+</div>
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
+<summary><div align="center"><b>🗄️ Datastores & MQ</b></div></summary>
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+PostgreSQL, Redis, Kafka, RabbitMQ  
+Transactions, Migrations, Indexing  
+Performance Tuning, DLQ
 
+</div>
 </details>
 
 <details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><div align="center"><b>⚙️ DevOps / GitOps / Infra / Observability</b></div></summary>
+<div align="center">
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+Docker/Compose, Kubernetes/K3s, Helm, ArgoCD  
+NGINX, TLS, HTTP/2/3 (QUIC), Blue-Green/Canary  
+OpenTelemetry, Prometheus/Victoria Metrics, Grafana/Loki/Tempo, Sentry  
+GitHub Actions, Linux, AWS, Vercel, Cloudflare
 
+</div>
 </details>
-
-<details>
-<summary><b>📋 Languages & Formats</b></summary>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
-
-</details>
-
 ## Top Projects
 
 - Vidhur - AI-College-Enquiry-Chatbot, Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript [Live Link:](https://vidhur.netlify.app/)
