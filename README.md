@@ -9,6 +9,7 @@
 ![Amol's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true)
 
 
+
 ## About Me
 
 I am a software developer with a keen interest in data science and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
