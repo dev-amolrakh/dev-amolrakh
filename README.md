@@ -43,7 +43,7 @@ I am a software developer with a keen interest in data science and web technolog
 
 <div align="center">
 
-### ▼ ▼ More tools (click)
+### More details (click ▼)
 
 </div>
 
