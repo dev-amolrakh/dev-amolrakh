@@ -9,12 +9,6 @@
 
 ![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true)
 
-<p align="center">
-  <b><h2>🏆 LeetCode Heatmap</h2> </b><br>
-  <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap"/>
-</p>
-
-
 
 ## About Me
 
@@ -84,6 +78,12 @@ I am a software developer with a keen interest in data science and web technolog
 👥 **Followers:** 13  
 👤 **Following:** 23  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <span style="font-size:24px;">🏆 <b>LeetCode Heatmap</b></span><br>
+  <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap"/>
+</p>
+
 
 ## My GitHub Achievements 🏆
 ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
