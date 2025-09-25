@@ -48,7 +48,6 @@ I am a software developer with a keen interest in data science and web technolog
 </div>
 
 <details>
-<summary><div align="center"><b>Backend • Frontend • XR/GameDev • Web3 • Datastores & MQ • DevOps/GitOps/Infra/Observability</b></div></summary>
 
 <div align="center">
 
