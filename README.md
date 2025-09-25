@@ -33,12 +33,8 @@ I am a software developer with a keen interest in data science and web technolog
   
 # 🌸 Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,nodejs,python,express,react,typescript,javascript,nuxtjs,vue,blender,nginx,kubernetes,docker,linux,figma,bash,git,github,aws,gitlab,cloudflare,vscode" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,kafka,unity,threejs,graphql,tailwind,css,html,sass" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,react,tailwind,html,css,fastapi,flask,nodejs,express,mysql,mongodb,postgres,vercel,git,github,gitlab,docker,kubernetes,aws,linux,vscode,postman,bootstrap,npm" />
 </p>
 
 </div>
