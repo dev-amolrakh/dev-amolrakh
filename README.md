@@ -54,44 +54,44 @@ I am a software developer with a keen interest in data science and web technolog
 
 **🔧 Backend**
 
-Node.js (Express/NestJS/Fastify), Python (FastAPI/Django)  
-gRPC/REST, WebSockets, OAuth/OIDC, JWT  
-Rate-limiting, Caching, CORS, Idempotency/Outbox
+Node.js (Express.js), Python (Flask/FastAPI)  
+REST APIs, gRPC (basic), WebSockets  
+Authentication (JWT, OAuth), CORS  
+API Integration, SMTP (Email/OTP), CI/CD
 
 **🌸 Frontend**
 
-React/Next.js (SSR/ISR), Vue/Nuxt, TypeScript  
-Zustand, React Query, RHF/Zod  
-Tailwind, Vite/Webpack, PWA  
-Playwright, Cypress, Jest, Storybook
+React.js, Vite, TypeScript, JavaScript (ES6+)  
+State Management (useState, useEffect, Context API)  
+Tailwind CSS, Bootstrap, HTML5, CSS3  
+Responsive Design, PWA Basics, Testing (Jest/Playwright)
 
-**👓 XR / GameDev**
+**🤖 AI / Data Science**
 
-Unity (URP), Proton RUN  
-WebXR (8th Wall/Zappar/AR.js)  
-Three.js/PlayCanvas  
-GLTF/KTX2/Basis, Meshopt, Baked GI  
-Shaders (HLSL/Shader Graph)
+Python (NumPy, Pandas, Scikit-learn)  
+OpenCV, Hugging Face, LLM APIs (Gemini, Groq, LLaMA)  
+Data Analysis, DSA, OOP  
+Chatbots, NLP, Model Deployment (Flask/FastAPI)
 
-**🔗 Web3**
+**🗄️ Databases**
 
-Solidity (Hardhat/Foundry), ERC-20/721/1155/4337, EIP-712  
-Ethers.js/Viem, The Graph, ChainLink  
-WalletConnect/MetaMask, L2 (Op/Arb/zkSync)  
-Alchemy/Infura
+PostgreSQL, MySQL, MongoDB (Atlas), Redis (basic)  
+Database Design, Indexing, Query Optimization  
+Migrations, Transactions, Data Modeling  
 
-**🗄️ Datastores & MQ**
+**⚙️ DevOps / Infra / Deployment**
 
-PostgreSQL, Redis, Kafka, RabbitMQ  
-Transactions, Migrations, Indexing  
-Performance Tuning, DLQ
+Docker, Kubernetes (basic), Jenkins, GitHub Actions  
+AWS (EC2, S3), Vercel, Hostinger VPS, Cloudflare  
+Linux (Ubuntu/Kali), NGINX, TLS  
+Version Control (Git, GitHub, GitLab)
 
-**⚙️ DevOps / GitOps / Infra / Observability**
+**🛠️ Tools & IDEs**
 
-Docker/Compose, Kubernetes/K3s, Helm, ArgoCD  
-NGINX, TLS, HTTP/2/3 (QUIC), Blue-Green/Canary  
-OpenTelemetry, Prometheus/Victoria Metrics, Grafana/Loki/Tempo, Sentry  
-GitHub Actions, Linux, AWS, Vercel, Cloudflare
+VS Code, Cursor IDE  
+Postman, DB Debugging Tools  
+Figma, Markdown, JSON, XML  
+npm, GitHub Copilot
 
 </div>
 </details>
