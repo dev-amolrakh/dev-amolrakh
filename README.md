@@ -9,6 +9,8 @@
 
 ![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true)
 
+### 🧑‍💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
