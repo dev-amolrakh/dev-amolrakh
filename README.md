@@ -10,16 +10,21 @@
 ![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true)
 ### 🏆 LeetCode Stats
 
+### 🏆 LeetCode Stats
+
 <table>
   <tr>
+    <!-- Left: Stats (bars + numbers) -->
     <td>
-      <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=contest" alt="LeetCode Stats" />
     </td>
+    <!-- Right: Heatmap only -->
     <td>
       <img src="https://leetcard.jacoblin.cool/amolrakh22?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap" />
     </td>
   </tr>
 </table>
+
 
 
 
