@@ -95,8 +95,9 @@ npm, GitHub Copilot
 
 <h2 align="center">🚀 Top Projects</h2>
 
-<p align="left">
-- Vidhur - AI-College-Enquiry-Chatbot. Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript <a href="https://vidhur.netlify.app/">Live Link</a><br>
+> <p align="left">
+- Vidhur - AI-College-Enquiry-Chatbot. Get quick and latest info about the top technical institutions under DTE Rajasthan. 
+  **Stars:** 1, **Language:** JavaScript <a href="https://vidhur.netlify.app/">Live Link</a><br>
 - NyayVaani: Bridging Legal Information and Expertise. <a href="https://nyay-vaani.vercel.app/">Live Link</a><br>
 - Samku Services - A complete solution for Vehicle Service Booking and EV Parts.<br>
 - BHOJANAM - Sustainable breakfast cereals and beverages project under the ANNAM (AI-driven sustainable food systems) platform. <a href="https://bhojanam-starhaus.netlify.app/">Live Link</a>
