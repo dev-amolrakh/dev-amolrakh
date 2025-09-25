@@ -17,7 +17,7 @@
 I am a software developer with a keen interest in data science and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
 </p>
 
-<p align="left">
+<p align="left" style="padding-left:20px;">
 - 🔭 I’m currently working on <a href="https://nyay-vaani.vercel.app/">NyayVaani: Bridging Legal Information and Expertise</a><br>
 - 🌱 I’m currently learning <b>Backend and Frontend Frameworks</b><br>
 - 👨‍💻 All of my projects are available at <a href="https://a22-amol.netlify.app/">a22-amol.netlify.app</a><br>
