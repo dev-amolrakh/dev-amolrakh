@@ -77,7 +77,8 @@ I am a software developer with a keen interest in data science and web technolog
 🌟 **Public Repositories:** 6  
 👥 **Followers:** 13  
 👤 **Following:** 23  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)  ### 🧑‍💻 Most Used Languages ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical)  
+### 🧑‍💻 Most Used Languages ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=tokyonight&hide_border=true)
 
 ## My GitHub Achievements 🏆
 ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
