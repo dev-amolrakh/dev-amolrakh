@@ -29,6 +29,8 @@ I am a software developer with a keen interest in data science and web technolog
 
 <div align="center">
   
+<div align="center">
+  
 # 🌸 Stack
 
 <p>
@@ -50,31 +52,24 @@ I am a software developer with a keen interest in data science and web technolog
 </div>
 
 <details>
-<summary><div align="center"><b>🔧 Backend</b></div></summary>
+<summary><div align="center"><b>Backend • Frontend • XR/GameDev • Web3 • Datastores & MQ • DevOps/GitOps/Infra/Observability</b></div></summary>
+
 <div align="center">
+
+**🔧 Backend**
 
 Node.js (Express/NestJS/Fastify), Python (FastAPI/Django)  
 gRPC/REST, WebSockets, OAuth/OIDC, JWT  
 Rate-limiting, Caching, CORS, Idempotency/Outbox
 
-</div>
-</details>
-
-<details>
-<summary><div align="center"><b>🌸 Frontend</b></div></summary>
-<div align="center">
+**🌸 Frontend**
 
 React/Next.js (SSR/ISR), Vue/Nuxt, TypeScript  
 Zustand, React Query, RHF/Zod  
 Tailwind, Vite/Webpack, PWA  
 Playwright, Cypress, Jest, Storybook
 
-</div>
-</details>
-
-<details>
-<summary><div align="center"><b>👓 XR / GameDev</b></div></summary>
-<div align="center">
+**👓 XR / GameDev**
 
 Unity (URP), Proton RUN  
 WebXR (8th Wall/Zappar/AR.js)  
@@ -82,35 +77,20 @@ Three.js/PlayCanvas
 GLTF/KTX2/Basis, Meshopt, Baked GI  
 Shaders (HLSL/Shader Graph)
 
-</div>
-</details>
-
-<details>
-<summary><div align="center"><b>🔗 Web3</b></div></summary>
-<div align="center">
+**🔗 Web3**
 
 Solidity (Hardhat/Foundry), ERC-20/721/1155/4337, EIP-712  
 Ethers.js/Viem, The Graph, ChainLink  
 WalletConnect/MetaMask, L2 (Op/Arb/zkSync)  
 Alchemy/Infura
 
-</div>
-</details>
-
-<details>
-<summary><div align="center"><b>🗄️ Datastores & MQ</b></div></summary>
-<div align="center">
+**🗄️ Datastores & MQ**
 
 PostgreSQL, Redis, Kafka, RabbitMQ  
 Transactions, Migrations, Indexing  
 Performance Tuning, DLQ
 
-</div>
-</details>
-
-<details>
-<summary><div align="center"><b>⚙️ DevOps / GitOps / Infra / Observability</b></div></summary>
-<div align="center">
+**⚙️ DevOps / GitOps / Infra / Observability**
 
 Docker/Compose, Kubernetes/K3s, Helm, ArgoCD  
 NGINX, TLS, HTTP/2/3 (QUIC), Blue-Green/Canary  
@@ -119,6 +99,7 @@ GitHub Actions, Linux, AWS, Vercel, Cloudflare
 
 </div>
 </details>
+
 ## Top Projects
 
 - Vidhur - AI-College-Enquiry-Chatbot, Get quick and latest info about the top technical institutions under DTE Rajasthan. **Stars:** 1, **Language:** JavaScript [Live Link:](https://vidhur.netlify.app/)
