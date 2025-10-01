@@ -41,11 +41,9 @@ I am a software developer with a keen interest in data science and web technolog
 
 <h3 align="center">More details (click ▼)</h3>
 
+ <details>
+<summary align="center">Expand</summary>
 
-<div align="center">
-  <details>
-  <summary align="center">Expand</summary>
-</div>
 <div align="center">
 
 **🔧 Backend**
