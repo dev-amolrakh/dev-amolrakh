@@ -41,7 +41,7 @@ I am a software developer with a keen interest in data science and web technolog
 
 <h3 align="center">More details (click ▼)</h3>
 
-<div align="center"><details></div>
+<details>
 <summary align="center">Expand</summary>
 <div align="center">
 
