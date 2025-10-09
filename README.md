@@ -118,10 +118,6 @@ npm, GitHub Copilot
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-🌟 <b>Public Repositories:</b> 6 &nbsp;&nbsp; 👥 <b>Followers:</b> 13 &nbsp;&nbsp; 👤 <b>Following:</b> 23  
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
