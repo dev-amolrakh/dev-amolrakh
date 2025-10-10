@@ -40,7 +40,7 @@ I am a software developer with a keen interest in data science and web technolog
   <img src="https://skillicons.dev/icons?i=cpp,c,python,rust,javascript,react,vite,tailwind,html,css,fastapi,flask,electron,nodejs,express,mysql,mongodb,postgres,vercel,git,github,gitlab,docker,kubernetes,aws,linux,vscode,postman,bootstrap,npm" />
 </p>
 
-<h3 align="center">More details (click ▼)</h3>
+<h3 align="center">More details (click on ▼)</h3>
 
  <details>
 <summary align="center">Expand</summary>
