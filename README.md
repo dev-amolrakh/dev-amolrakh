@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol Rakh</h1>
-<h3 align="center">A passionate Full stack, AIML and DevOps developer from India</h3>
+<h3 align="center">A passionate MERN developer, DevOps and AIML developer from India</h3>
 
 
 <p align="center">
