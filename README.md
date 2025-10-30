@@ -6,7 +6,7 @@
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="200" height="200">
 </p>
 
-<h2 align="center">🏆 Hacktoberfest 2025 Achievements</h2>
+<h2 align="center">🎉 Hacktoberfest 2025 — Open Source Contribution</h2>
 <p align="center">
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="HF 2025 - Level 1" title="HF 2025 - Level 1" height="160">
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="HF 2025 - Level 2" title="HF 2025 - Level 2" height="160">
