@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="200" height="200">
+  <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="150" height="150">
 </p>
 
 <h2 align="center">🎉 Hacktoberfest 2025 — Open Source Contribution</h2>
