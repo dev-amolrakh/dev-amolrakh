@@ -6,6 +6,10 @@
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="200" height="200">
 </p>
 
+### Hacktoberfest 2025 Achievements
+![HF lvl1](https://assets.holopin.io/hf2025levels/lvl1-human.webp) ![HF lvl2](https://assets.holopin.io/hf2025levels/lvl2-human.webp) ![HF lvl3](https://assets.holopin.io/hf2025levels/lvl3-human.webp) ![HF lvl4](https://assets.holopin.io/hf2025levels/lvl4-human.webp) ![HF lvl5](https://assets.holopin.io/hf2025levels/lvl5-human.webp)
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true" alt="My Contribution Graph"/>
 </p>
