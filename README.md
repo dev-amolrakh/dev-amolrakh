@@ -6,8 +6,14 @@
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="200" height="200">
 </p>
 
-### Hacktoberfest 2025 Achievements
-![HF lvl1](https://assets.holopin.io/hf2025levels/lvl1-human.webp) ![HF lvl2](https://assets.holopin.io/hf2025levels/lvl2-human.webp) ![HF lvl3](https://assets.holopin.io/hf2025levels/lvl3-human.webp) ![HF lvl4](https://assets.holopin.io/hf2025levels/lvl4-human.webp) ![HF lvl5](https://assets.holopin.io/hf2025levels/lvl5-human.webp)
+<p align="center">
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Hacktoberfest 2025 Level 1" title="HF 2025 - Level 1" width="64" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" title="HF 2025 - Level 2" width="64" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Hacktoberfest 2025 Level 3" title="HF 2025 - Level 3" width="64" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Hacktoberfest 2025 Level 4" title="HF 2025 - Level 4" width="64" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Hacktoberfest 2025 Level 5" title="HF 2025 - Level 5" width="64" />
+</p>
+
 
 
 <p align="center">
