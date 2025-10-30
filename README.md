@@ -9,11 +9,11 @@
 <h3 align="center">Hacktoberfest 2025 Achievements</h3>
 <div align="center">
   <div style="display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:nowrap; white-space:nowrap;">
-    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="HF 2025 - Level 1" title="HF 2025 - Level 1" style="height:96px;"/>
-    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="HF 2025 - Level 2" title="HF 2025 - Level 2" style="height:96px;"/>
-    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="HF 2025 - Level 3" title="HF 2025 - Level 3" style="height:96px;"/>
-    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="HF 2025 - Level 4" title="HF 2025 - Level 4" style="height:96px;"/>
-    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="HF 2025 - Level 5" title="HF 2025 - Level 5" style="height:96px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="HF 2025 - Level 1" title="HF 2025 - Level 1" style="height:100px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="HF 2025 - Level 2" title="HF 2025 - Level 2" style="height:100px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="HF 2025 - Level 3" title="HF 2025 - Level 3" style="height:100px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="HF 2025 - Level 4" title="HF 2025 - Level 4" style="height:100px;"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="HF 2025 - Level 5" title="HF 2025 - Level 5" style="height:100px;"/>
   </div>
 </div>
 
