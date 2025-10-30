@@ -31,18 +31,13 @@ I am a software developer with a keen interest in data science and web technolog
 </p>
 
 > <p align="left" style="padding-left:20px;">
-- 🔭 I’m currently working on <a href="https://nyay-vaani.vercel.app/">NyayVaani: Bridging Legal Information and Expertise</a><br>
 - 🌱 I’m currently learning <b>Backend and Frontend Frameworks</b><br>
-- 👨‍💻 All of my projects are available at <a href="https://a22-amol.netlify.app/">a22-amol.netlify.app</a><br>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/dev-amolrakh?tab=repositories">dev-amolrakh</a><br>
 - 💬 Ask me about <b>React, Node.js and Flask</b><br>
 - 📫 How to reach me <b>amolrakh22@gmail.com</b>
+- 😁 Open Source Contributor #Hacktoberfest 2025: Supercontributor
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-amolrakh" alt="dev-amolrakh"/>
-  </a>
-</p>
 
 ---
 
