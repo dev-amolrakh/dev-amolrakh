@@ -140,17 +140,10 @@ npm, GitHub Copilot
 <h2 align="center">🏆 My GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Gitty"/>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="150" height="150"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo" width="150" height="150"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Gitty" width="150" height="150"/>
 </p>
 
 ---
 
-<h2 align="center">🔥 Recent Activity</h2>
-
-<p align="center">
-- ⭐️ Published Paper In OpenCV <a href="https://journals.tultech.eu/index.php/jtse/article/view/202">link</a><br>
-- ⭐️ Launched a Project Called NyayVaani <a href="https://drive.google.com/file/d/17U7bf3zzod9cFAY_0FN5Iz6T0ShAnKCr/view">Documentation</a> and <a href="https://drive.google.com/file/d/1UMqx6FpjAOxEWjwrtFyYtvIrTZSD-OF8/view">Audio Podcast</a><br>
-- ⭐️ Leetcode - amolrakh22
-</p>
