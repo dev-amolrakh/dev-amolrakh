@@ -7,13 +7,7 @@
 </p>
 
 <h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>
-<p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="HF 2025 - Level 1" title="HF 2025 - Level 1" height="160">
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="HF 2025 - Level 2" title="HF 2025 - Level 2" height="160">
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="HF 2025 - Level 3" title="HF 2025 - Level 3" height="160">
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="HF 2025 - Level 4" title="HF 2025 - Level 4" height="160">
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="HF 2025 - Level 5" title="HF 2025 - Level 5" height="160">
-</p>
+[![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
 
 
 
