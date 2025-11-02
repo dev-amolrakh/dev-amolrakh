@@ -6,7 +6,7 @@
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="150" height="150">
 </p>
 
-<h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>## Holopin Badges
+<h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>
 
 [![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
 
