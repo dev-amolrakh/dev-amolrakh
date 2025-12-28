@@ -14,9 +14,9 @@
 
 ## 🎨 Interactive Profile Badge
 
-[![Profile Badge](https://raw.githubusercontent.com/dev-amolrakh/dev-amolrakh/main/git-demonfinal.png)](https://github-plugin-by-dev-amolrakh.vercel.app/)
+![Animated Badge](./badge-animated.gif)
 
-**✨ Click to see my interactive hover badge!**
+✨ **[View Full Interactive Version →](https://github-plugin-by-dev-amolrakh.vercel.app/)**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true" alt="My Contribution Graph"/>
