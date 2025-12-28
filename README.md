@@ -12,11 +12,6 @@
 
 [![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
 
-## 🎨 Interactive Profile Badge
-
-[![Profile Badge](https://raw.githubusercontent.com/dev-amolrakh/dev-amolrakh/main/git-demonfinal.png)](https://github-plugin-by-dev-amolrakh.vercel.app/)
-
-✨ **[View Full Interactive Version →](https://github-plugin-by-dev-amolrakh.vercel.app/)**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true" alt="My Contribution Graph"/>
