@@ -13,7 +13,11 @@
 [![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
 
 
-[![Profile Badge](https://github-plugin-by-dev-amolrakh.vercel.app/badge.png)](https://github-plugin-by-dev-amolrakh.vercel.app/)
+## 🎨 Interactive Profile Badge
+
+**[View My Interactive Profile Badge →](https://github-plugin-by-dev-amolrakh.vercel.app/)**
+
+[![View Badge](https://img.shields.io/badge/🎨_Interactive-Profile_Badge-purple?style=for-the-badge)](https://github-plugin-by-dev-amolrakh.vercel.app/)
 
 
 
