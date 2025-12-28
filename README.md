@@ -23,7 +23,7 @@
 <h2 align="center">📌 About Me</h2>
 
 <p align="center">
-I am a software developer with a keen interest in data science and web technologies. Currently, I have several projects that showcase my skills in various programming languages and frameworks. I'm always eager to learn and collaborate on new challenges!
+I am a software developer experience in Full Stack Developer & AI/ML Enthusiast with 10 months of internship experience and a strong track record of delivering 7+ impactful projects across web and AI domains. Experienced in building scalable web applications, AI-powered chatbots, and machine learning solutions. Skilled in MERN stack, Flask, CI/CD, API-first design, state management, cloud deployment and modular coding. Proven success in global projects, hackathons, and research publications, with a strong focus on innovation, collaboration, and problem-solving.
 </p>
 
 > <p align="left" style="padding-left:20px;">
