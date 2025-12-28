@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+and+Node.js+Expert;Open+Source+Enthusiast" alt="Typing SVG " />
 </p>
 
+![](https://komarev.com/ghpvc/?username=dev-amolrakh&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 <p align="center">
   <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="150" height="150">
 </p>
