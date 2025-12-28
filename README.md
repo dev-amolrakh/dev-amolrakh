@@ -15,10 +15,9 @@
 
 ## 🎨 Interactive Profile Badge
 
-**[View My Interactive Profile Badge →](https://github-plugin-by-dev-amolrakh.vercel.app/)**
+[![Profile Badge](https://raw.githubusercontent.com/dev-amolrakh/dev-amolrakh/main/git-demonfinal.png)](https://github-plugin-by-dev-amolrakh.vercel.app/)
 
-[![View Badge](https://img.shields.io/badge/🎨_Interactive-Profile_Badge-purple?style=for-the-badge)](https://github-plugin-by-dev-amolrakh.vercel.app/)
-
+**✨ Click to see my interactive hover badge!**
 
 
 <p align="center">
