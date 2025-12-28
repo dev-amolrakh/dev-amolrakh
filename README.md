@@ -14,7 +14,7 @@
 
 ## 🎨 Interactive Profile Badge
 
-![Animated Badge](./badge-animated.gif)
+[![Profile Badge](https://raw.githubusercontent.com/dev-amolrakh/dev-amolrakh/main/git-demonfinal.png)](https://github-plugin-by-dev-amolrakh.vercel.app/)
 
 ✨ **[View Full Interactive Version →](https://github-plugin-by-dev-amolrakh.vercel.app/)**
 
