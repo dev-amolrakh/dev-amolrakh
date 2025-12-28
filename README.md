@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Rakh</h1>
 <h3 align="center">🐞🔍💻 A passionate MERN developer, DevOps and AIML developer from India</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+and+Node.js+Expert;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+and+Node.js+Expert;Open+Source+Enthusiast" alt="Typing SVG " />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-amolrakh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
