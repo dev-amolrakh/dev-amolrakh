@@ -119,17 +119,18 @@ npm, GitHub Copilot
   </a>
 
   <a href="https://www.leetcode.com/amolrakh22" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" height="30" width="40"/>
   </a>
 
   <a href="https://medium.com/@amolrakh22" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" height="30" width="40"/>
   </a>
 
   <a href="https://stackoverflow.com/users/31067233/amol-rakh" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" height="30" width="40"/>
   </a>
 </p>
+
 
 
 
