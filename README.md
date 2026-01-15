@@ -119,7 +119,7 @@ npm, GitHub Copilot
   </a>
 
   <a href="https://www.leetcode.com/amolrakh22" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" height="30" width="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="30" width="40"/>
   </a>
 
   <a href="https://medium.com/@amolrakh22" target="_blank">
