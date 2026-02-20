@@ -118,10 +118,6 @@ npm, GitHub Copilot
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="40"/>
   </a>
 
-  <a href="https://www.leetcode.com/amolrakh22" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="30" width="30"/>
-  </a>
-
   <a href="https://medium.com/@amolrakh22" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" height="30" width="40"/>
   </a>
