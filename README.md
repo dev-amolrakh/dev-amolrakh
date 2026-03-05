@@ -126,7 +126,3 @@ npm, GitHub Copilot
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" height="30" width="40"/>
   </a>
 </p>
-
-
-
-
