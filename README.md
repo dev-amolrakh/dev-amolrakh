@@ -78,15 +78,15 @@ Migrations, Transactions, Data Modeling
 **⚙️ DevOps / Infra / Deployment**
 
 Docker, Kubernetes (basic), Jenkins, GitHub Actions  
-AWS (EC2, S3), Vercel, Hostinger VPS, Cloudflare  
+AWS (EC2, S3), Vercel, Hostinger VPS,  
 Linux (Ubuntu/Kali), NGINX, TLS  
 Version Control (Git, GitHub, GitLab)  
 
 **🛠️ Tools & IDEs**
 
 VS Code, Cursor IDE  
-Postman, DB Debugging Tools  
-Figma, Markdown, JSON, XML  
+Postman, DB Debugging Tools, 
+Markdown, JSON, XML  
 npm, GitHub Copilot  
 
 </div>
