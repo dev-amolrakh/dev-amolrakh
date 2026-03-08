@@ -33,7 +33,6 @@ I am a software developer experience in Full Stack Developer & AI/ML Enthusiast 
 - 😁 Open Source Contributor #Hacktoberfest 2025: Supercontributor
 </p>
 
-
 ---
 
 <h2 align="center">🌸 Stack</h2>
