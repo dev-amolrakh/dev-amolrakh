@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-amolrakh22%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0d1117)](mailto:amolrakh22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-amolrakha22-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117)](https://linkedin.com/in/amolrakha22)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dev-amolrakh&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/dev-amolrakh?label=FOLLOWERS&style=for-the-badge&color=a855f7&labelColor=0d1117)
 ![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST_2025-SUPERCONTRIBUTOR-34D399?style=for-the-badge&labelColor=0d1117)
 
@@ -37,6 +36,10 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 ```
 
 <br/>
+
+<h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>
+
+[![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
 
 ## `#` tech-stack.sh
 
@@ -90,12 +93,7 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 ## `#` github-stats.sh
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=E6EDF3&border_color=30363D&hide_border=false" height="165" alt="github stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amolrakh&theme=dark&background=0D1117&stroke=30363D&ring=22D3EE&fire=A855F7&currStreakLabel=34D399&hide_border=false" height="165" alt="streak stats"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=dark&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&border_color=30363D&hide_border=false" height="165" alt="top languages"/>
 </div>
 
 <div align="center">
@@ -141,6 +139,16 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 
 ```
 [
+  {
+    "role": "Government Software Developer (Hybrid) — SDE, Govt. of India",
+    "company": "Ministry of Tribal Affairs (MoTA), Govt. of India — Delhi, India",
+    "duration": "Oct 2025 – Present",
+    "highlights": [
+      "Smart India Hackathon 2025 national-winning project taken to production: an AI-powered FRA WebGIS Decision Support System (DSS) built on the MERN stack, with secure deployment and field validation across Maharashtra",
+      "Collaborating with MoTA, NIC, and IIT Delhi teams to improve system security, scalability, and performance",
+      "Currently serving as a full-time Software Development Engineer for the Government of India"
+    ]
+  },
   {
     "role": "Software Engineer Trainee (Hybrid)",
     "company": "Samku Technology & Consultancy — Charholi, Pune",
