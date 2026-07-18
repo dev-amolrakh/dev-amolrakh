@@ -1,0 +1,62 @@
+<svg width="820" height="360" viewBox="0 0 820 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="winGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#1c2333"/>
+    <stop offset="100%" stop-color="#11151d"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+  </filter>
+  <style>
+    text { font-family: 'Fira Code','Courier New',monospace; }
+    .line { opacity: 0; animation: fadeIn 0.4s ease-out forwards; }
+    .l1  { animation-delay: 0.2s; }
+    .l2  { animation-delay: 0.9s; }
+    .l3  { animation-delay: 1.6s; }
+    .l4  { animation-delay: 2.3s; }
+    .l5  { animation-delay: 3.0s; }
+    .l6  { animation-delay: 3.7s; }
+    .l7  { animation-delay: 4.4s; }
+    .l8  { animation-delay: 5.1s; }
+    .l9  { animation-delay: 5.8s; }
+    .l10 { animation-delay: 6.5s; }
+    .l11 { animation-delay: 7.2s; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .blk { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    .dot { filter: drop-shadow(0 0 2px rgba(0,0,0,0.4)); }
+  </style>
+</defs>
+
+<rect x="8" y="8" width="804" height="344" rx="14" fill="url(#winGrad)" filter="url(#shadow)"/>
+<rect x="8" y="8" width="804" height="344" rx="14" fill="none" stroke="#30363d" stroke-width="1.2"/>
+
+<!-- title bar -->
+<path d="M8 22 a14 14 0 0 1 14 -14 h776 a14 14 0 0 1 14 14 v28 h-804 z" fill="url(#barGrad)"/>
+<circle class="dot" cx="34" cy="36" r="6.5" fill="#ff5f56"/>
+<circle class="dot" cx="56" cy="36" r="6.5" fill="#ffbd2e"/>
+<circle class="dot" cx="78" cy="36" r="6.5" fill="#27c93f"/>
+<text x="410" y="41" text-anchor="middle" font-size="13" fill="#8b949e">amol@dev-amolrakh: ~/portfolio</text>
+
+<!-- body -->
+<g font-size="15.5">
+  <text class="line l1" x="34" y="90"><tspan fill="#4ade80">amol@devbox</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#22d3ee">~</tspan><tspan fill="#e6edf3">$ whoami</tspan></text>
+  <text class="line l2" x="34" y="116" fill="#e6edf3">&#8594; Amol Rakh — Full-Stack Developer &amp; AI/ML Engineer</text>
+
+  <text class="line l3" x="34" y="150"><tspan fill="#4ade80">amol@devbox</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#22d3ee">~</tspan><tspan fill="#e6edf3">$ cat achievements.log</tspan></text>
+  <text class="line l4" x="34" y="176" fill="#facc15">&#8594; &#127942; SIH National Winner 2025 · Ministry of Tribal Affairs · &#8377;1,50,000</text>
+  <text class="line l5" x="34" y="199" fill="#facc15">&#8594; &#127942; TechXcelerate Hackathon Winner · BITS Pilani, Goa · &#8377;50,000</text>
+
+  <text class="line l6" x="34" y="233"><tspan fill="#4ade80">amol@devbox</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#22d3ee">~</tspan><tspan fill="#e6edf3">$ ls top-projects/</tspan></text>
+  <text class="line l7" x="34" y="259" fill="#a855f7">pcmc-intelligence-hub  ocr-engine  nyayvaani  vidhur-ai  personal-docdrive</text>
+
+  <text class="line l8" x="34" y="293"><tspan fill="#4ade80">amol@devbox</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#22d3ee">~</tspan><tspan fill="#e6edf3">$ ./deploy.sh --status</tspan></text>
+  <text class="line l9" x="34" y="319" fill="#4ade80">&#8594; build passing &#10003;&#160;&#160; uptime 99.9% &#10003;&#160;&#160; open to opportunities &#10003;</text>
+
+  <text class="line l10" x="34" y="345"><tspan fill="#4ade80">amol@devbox</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#22d3ee">~</tspan><tspan fill="#e6edf3">$ </tspan><tspan class="blk" fill="#e6edf3">&#9608;</tspan></text>
+</g>
+</svg>
