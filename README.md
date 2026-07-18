@@ -1,127 +1,295 @@
-<h1 align="center">Hi 👋, I'm Amol Rakh</h1>
-<h3 align="center">A passionate MERN developer, DevOps and AIML developer from India</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+and+Node.js+Expert;Open+Source+Enthusiast" alt="Typing SVG " />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/dev-amolrakh/dev-amolrakh/blob/main/git-demonfinal.png" alt="Dojocat" width="150" height="150">
-</p>
+<img src="./assets/voxel-banner.svg" width="100%" alt="Amol Rakh banner" />
 
-<h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Full-Stack+%2B+AI%2FML+Developer;%24+cat+philosophy.txt+%E2%86%92+Build+fast.+Ship+clean.+Automate+everything.;%24+./deploy.sh+--env%3Dproduction+%E2%86%92+success+%E2%9C%93" alt="Typing SVG" />
 
-[![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-amol--rakh.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=0d1117)](https://amol-rakh.vercel.app/)
+[![Email](https://img.shields.io/badge/EMAIL-amolrakh22%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0d1117)](mailto:amolrakh22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-amolrakha22-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117)](https://linkedin.com/in/amolrakha22)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&area=true" alt="My Contribution Graph"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=dev-amolrakh&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dev-amolrakh?label=FOLLOWERS&style=for-the-badge&color=a855f7&labelColor=0d1117)
+![Hacktoberfest](https://img.shields.io/badge/HACKTOBERFEST_2025-SUPERCONTRIBUTOR-34D399?style=for-the-badge&labelColor=0d1117)
 
----
+</div>
 
-<h2 align="center">📌 About Me</h2>
+<br/>
 
-<p align="justify">
-I am a software developer experience in Full Stack Developer & AI/ML Enthusiast with 10 months of internship experience and a strong track record of delivering 7+ impactful projects across web and AI domains. Experienced in building scalable web applications, AI-powered chatbots, and machine learning solutions. Skilled in MERN stack, Flask, CI/CD, API-first design, state management, cloud deployment and modular coding. Proven success in global projects, hackathons, and research publications, with a strong focus on innovation, collaboration, and problem-solving.
-</p>
+<img src="./assets/terminal.svg" width="100%" alt="terminal intro animation" />
 
-> <p align="left" style="padding-left:20px;">
-- 🌱 I’m currently learning <b>Backend and Frontend Frameworks</b><br>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/dev-amolrakh?tab=repositories">dev-amolrakh</a><br>
-- 💬 Ask me about <b>React, Node.js and Flask</b><br>
-- 📫 How to reach me <b>amolrakh22@gmail.com</b>
-- 😁 Open Source Contributor #Hacktoberfest 2025: Supercontributor
-</p>
+<br/>
 
----
+## `#` about-me.sh
 
-<h2 align="center">🌸 Stack</h2>
+```yaml
+role:        Full-Stack Developer & AI/ML Enthusiast
+experience:  1 year professional (2 internships) · 7+ shipped projects
+stack:       MERN · Flask/FastAPI · Docker · CI/CD · API-first design
+focus:       AI chatbots · OCR/document-intelligence · civic & ed-tech systems
+education:   B.E. AI & Data Science, Ajeenkya D.Y. Patil SOE, Pune — CGPA 8.06 (2026)
+currently:   🔭 building AI-powered document intelligence & civic-tech platforms
+             🌱 learning advanced backend & system design patterns
+             🏆 latest win — Smart India Hackathon 2025, National 1st (₹1,50,000)
+             💬 ask me about — React, Node.js, Flask, OCR/RAG pipelines
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,rust,javascript,react,vite,tailwind,html,css,fastapi,flask,electron,nodejs,express,mysql,mongodb,postgres,vercel,git,github,gitlab,docker,kubernetes,aws,linux,vscode,postman,bootstrap,npm" />
-</p>
+<br/>
 
-<h3 align="center">More details (click on ▼)</h3>
-
- <details>
-<summary align="center">Expand</summary>
+## `#` tech-stack.sh
 
 <div align="center">
 
-**🔧 Backend**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,rust" />
 
-Node.js (Express.js), Python (Flask/FastAPI)  
-REST APIs, gRPC (basic), WebSockets  
-Authentication (JWT, OAuth), CORS  
-API Integration, SMTP (Email/OTP), CI/CD  
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,electron" />
 
-**🌸 Frontend**
+**Backend & AI/ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,redis" />
 
-React.js, Vite, TypeScript, JavaScript (ES6+)  
-State Management (useState, useEffect, Context API)  
-Tailwind CSS, Bootstrap, HTML5, CSS3  
-Responsive Design, PWA Basics, Testing (Jest/Playwright)  
+<img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/OCR-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/NER-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/GenAI-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&color=222&labelColor=111" height="26"/> <img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&color=222&labelColor=111" height="26"/>
 
-**🤖 AI / Data Science**
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-Python (NumPy, Pandas, Scikit-learn)  
-OpenCV, Hugging Face, LLM APIs (Gemini, Groq, LLaMA)  
-Data Analysis, DSA, OOP  
-Chatbots, NLP, Model Deployment (Flask/FastAPI)  
+**Cloud, DevOps & OS**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,vercel,git,github,gitlab" />
 
-**🗄️ Databases**
-
-PostgreSQL, MySQL, MongoDB (Atlas), Redis (basic)  
-Database Design, Indexing, Query Optimization  
-Migrations, Transactions, Data Modeling  
-
-**⚙️ DevOps / Infra / Deployment**
-
-Docker, Kubernetes (basic), Jenkins, GitHub Actions  
-AWS (EC2, S3), Vercel, Hostinger VPS,  
-Linux (Ubuntu/Kali), NGINX, TLS  
-Version Control (Git, GitHub, GitLab)  
-
-**🛠️ Tools & IDEs**
-
-VS Code, Cursor IDE  
-Postman, DB Debugging Tools, 
-Markdown, JSON, XML  
-npm, GitHub Copilot  
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 
 </div>
+
+<details>
+<summary align="center"><b>▸ expand full skill breakdown</b></summary>
+<br/>
+
+| Category | Skills |
+|---|---|
+| 🔧 **Backend** | Node.js (Express.js), Python (Flask/FastAPI), REST APIs, WebSockets, JWT/OAuth, SMTP, CI/CD |
+| 🎨 **Frontend** | React.js, Vite, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Responsive Design |
+| 🤖 **AI / Data Science** | NumPy, Pandas, Scikit-learn, OpenCV, Hugging Face, LLM APIs (Gemini, Groq, LLaMA), NLP, OCR, NER, RAG |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB (Atlas), Redis, Query Optimization, Data Modeling |
+| ⚙️ **DevOps / Infra** | Docker, Kubernetes (basic), Jenkins, GitHub Actions, AWS (EC2, S3), Hostinger VPS, NGINX, Linux |
+| 🛠️ **Practices** | DSA, OOP, MVC, Agile, OWASP Top 10, SDLC, Code Versioning & Branch Management |
+
 </details>
 
----
+<br/>
 
-<h2 align="center">🚀 Top Projects</h2>
+## `#` github-stats.sh
 
-> <p align="left">
-- Vidhur - AI-College-Enquiry-Chatbot. Get quick and latest info about the top technical institutions under DTE Rajasthan. 
-  **Stars:** 1, **Language:** JavaScript <a href="https://vidhur.netlify.app/">Live Link</a><br>
-- NyayVaani: Bridging Legal Information and Expertise. <a href="https://nyay-vaani.vercel.app/">Live Link</a><br>
-- Samku Services - A complete solution for Vehicle Service Booking and EV Parts.<br>
-- BHOJANAM - Sustainable breakfast cereals and beverages project under the ANNAM (AI-driven sustainable food systems) platform. <a href="https://bhojanam-starhaus.netlify.app/">Live Link</a>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-amolrakh&show_icons=true&theme=dark&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=E6EDF3&border_color=30363D&hide_border=false" height="165" alt="github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amolrakh&theme=dark&background=0D1117&stroke=30363D&ring=22D3EE&fire=A855F7&currStreakLabel=34D399&hide_border=false" height="165" alt="streak stats"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amolrakh&layout=compact&theme=dark&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&border_color=30363D&hide_border=false" height="165" alt="top languages"/>
+</div>
 
-<h2 align="center">📬 Connect with me</h2>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=A855F7&point=34D399&area=true" width="100%" alt="contribution activity graph"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/amolrakha22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-  </a>
+<br/>
 
-  <a href="https://kaggle.com/amoldevidasrakh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="40"/>
-  </a>
+## `#` achievements.log
 
-  <a href="https://medium.com/@amolrakh22" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" height="30" width="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://stackoverflow.com/users/31067233/amol-rakh" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" height="30" width="40"/>
-  </a>
-</p>
+| | Achievement | Organizer / Venue | Result |
+|:---:|---|---|---|
+| 🥇 | **Smart India Hackathon — National Level** | Ministry of Tribal Affairs (MoTA) · VSSUT, Burla | **1st place nationally · ₹1,50,000** — AI-powered MERN solution built in 36 hrs *(Dec 2025)* |
+| 🥇 | **TechXcelerate Hackathon** | BITS Pilani, Goa | **1st place · ₹50,000** — "Strategic Intelligence Model for the Indian Market" in 24 hrs *(Feb 2025)* |
+| 🏅 | **Smart India Hackathon — Finalist** | CGC, Jhanjeri, Punjab | Data-driven solution for standardizing odd school structure & resource allocation *(Dec 2024)* |
+| 📄 | **Research Paper Published** | Journal of Transactions in System Engineering (JTSE Tultech) | *"Real-Time Volume Control Using OpenCV"* *(Sep 2024)* |
+| 🎖️ | **Build With India Hackathon** | Google | Semi-Finalist *(Mar 2025)* |
+| 🎖️ | **MINDSPARK CodeJunkie** | COEP, Pune | Participant *(Aug 2023)* |
+
+</div>
+
+<br/>
+
+## `#` certifications.yaml
+
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Course-Udemy_'23-0d1117?style=for-the-badge&labelColor=0d1117&color=34D399)
+![MERN](https://img.shields.io/badge/MERN_Stack-Udemy_'25-0d1117?style=for-the-badge&labelColor=0d1117&color=22D3EE)
+![System Design](https://img.shields.io/badge/System_Design-Udemy_'26-0d1117?style=for-the-badge&labelColor=0d1117&color=A855F7)
+![AI ML](https://img.shields.io/badge/AI_%26_ML-Pregrade_'24-0d1117?style=for-the-badge&labelColor=0d1117&color=34D399)
+![Python](https://img.shields.io/badge/Python-Guvi_'23-0d1117?style=for-the-badge&labelColor=0d1117&color=22D3EE)
+![DSA](https://img.shields.io/badge/DSA-Udemy_'25-0d1117?style=for-the-badge&labelColor=0d1117&color=A855F7)
+![API Postman](https://img.shields.io/badge/API_%26_Postman-Postman_'25-0d1117?style=for-the-badge&labelColor=0d1117&color=34D399)
+
+</div>
+
+<br/>
+
+## `#` experience.json
+
+```
+[
+  {
+    "role": "Software Engineer Trainee (Hybrid)",
+    "company": "Samku Technology & Consultancy — Charholi, Pune",
+    "duration": "Feb 2025 – Jul 2025",
+    "highlights": [
+      "Built EV Service & Store Management on the MERN stack with Razorpay integration, Leaflet Maps, and inventory management",
+      "Deployed backend on Hostinger VPS; maintained clean, collaborative delivery via GitHub"
+    ]
+  },
+  {
+    "role": "Junior Data Analyst & Web Developer (Remote)",
+    "company": "Radical Innovations Group — Helsinki, Finland",
+    "duration": "Nov 2024 – Mar 2025",
+    "highlights": [
+      "Resolved a critical OTP authentication issue via SMTP-based email verification for secure login",
+      "Built and deployed full-stack dashboards with React.js, Flask, PostgreSQL, and the Gemini API"
+    ]
+  }
+]
+```
+
+<br/>
+
+## `#` ls -la top-projects/
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ PCMC Intelligence Hub
+
+Full-stack **civic operations platform** for Pimpri Chinchwad Municipal Corporation — a no-login public issue-reporting portal paired with an authenticated ops dashboard for live triage, GPS-based incident mapping, and predictive risk insights. Runs entirely on free-tier external services (weather, AQI, geocoding, maps).
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pcmc-intelligence-hub.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/PCMC-Intelligence-Hub)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 OCR Engine
+
+Production-style, **event-driven document-intelligence pipeline** for Indian government & enterprise documents (Aadhaar, PAN, invoices, FRA claim forms). Hybrid OCR routing between PaddleOCR and Qwen-VL by handwriting/confidence, with NER, IndicTrans2 translation, and full Prometheus + Grafana observability.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/ocr-engine)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Vidhur AI — College Enquiry Chatbot
+
+Multilingual (EN/HI/MR) AI assistant covering 50+ Pune engineering colleges — admissions, fees, placements, and side-by-side comparisons — powered by Groq's Llama 3.1 8B with voice input, conversation memory, and exportable chat history.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://vidhur.netlify.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/AI-College-Enquiry-Chatbot)
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 Personal DocDrive
+
+Full-stack **Google Drive file manager** with a custom interface — multi-file upload, folder organization, color-labeling, previews, and granular sharing/permission controls, all wired through the Google Drive API.
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/Personal-DocDrive)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📺 Yo TV — Your Omni Television
+
+Live-TV streaming web app with a **YouTube-style custom video player** (HLS playback, Picture-in-Picture, full keyboard shortcuts, quality selection) built on top of the IPTV-org channel API, with MongoDB-backed favorites.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/HLS.js-E10098?style=flat-square"/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/yo-tv)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ YoServices
+
+Minimalist **service-showcase site** for a software studio — production websites, college projects, robotics, and custom software offerings, presented through a clean Next.js + Tailwind interface.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/yo-service)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>▸ other builds</b></summary>
+<br/>
+
+- **📅 Study Streak Tracker** — a minimal 30-day study-streak tracker (Node/Express + MongoDB backend, vanilla JS frontend). [Repo →](https://github.com/dev-amolrakh/Study-Streak-Tracker)
+- **⚖️ NyayVaani** — AI legal platform offering instant IPC guidance, lawyer search, and secure chat/email support (React, Tailwind, Flask, MongoDB). [Live →](https://nyay-vaani.vercel.app/)
+- **⌨️ Vyx** — cross-platform Electron + React typing-practice app with JWT auth, offline caching, and license/payment verification workflows.
+
+</details>
+
+<br/>
+
+## `#` education.md
+
+<div align="center">
+
+**B.E. in AI & Data Science** — Ajeenkya D.Y. Patil School of Engineering, Pune *(2026)* — CGPA **8.06**
+<br/>
+**HSC** — V.S. Satav High School & Jr. College, Wagholi, Pune *(2022)* — **70%**
+
+</div>
+
+<br/>
+
+## `#` connect.sh
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://amol-rakh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amolrakha22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amolrakh22@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amolrakh22)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31067233/amol-rakh)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amolrakh22)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/amoldevidasrakh)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2333,100:0d1117&height=120&section=footer&text=amol@dev-amolrakh:~$%20exit&fontColor=34D399&fontSize=22&fontAlignY=75&animation=fadeIn" width="100%"/>
+
+</div>
