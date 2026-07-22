@@ -74,7 +74,7 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 </div>
 
 <details>
-<summary align="center"><b>▸ expand full skill breakdown</b></summary>
+<summary align="center"><b>expand full skill breakdown</b></summary>
 <br/>
 
 | Category | Skills |
@@ -258,7 +258,7 @@ Minimalist **service-showcase site** for a software studio - production websites
 <br/>
 
 <details>
-<summary><b>▸ other builds</b></summary>
+<summary><b>other builds</b></summary>
 <br/>
 
 - **📅 Study Streak Tracker** - a minimal 30-day study-streak tracker (Node/Express + MongoDB backend, vanilla JS frontend). [Repo →](https://github.com/dev-amolrakh/Study-Streak-Tracker)
