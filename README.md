@@ -28,11 +28,11 @@ role:        Full-Stack Developer & AI/ML Enthusiast
 experience:  1 year professional (2 internships) · 7+ shipped projects
 stack:       MERN · Flask/FastAPI · Docker · CI/CD · API-first design
 focus:       AI chatbots · OCR/document-intelligence · civic & ed-tech systems
-education:   B.E. AI & Data Science, Ajeenkya D.Y. Patil SOE, Pune — CGPA 8.06 (2026)
+education:   B.E. AI & Data Science, Ajeenkya D.Y. Patil SOE, Pune - CGPA 8.06 (2026)
 currently:   🔭 building AI-powered document intelligence & civic-tech platforms
              🌱 learning advanced backend & system design patterns
-             🏆 latest win — Smart India Hackathon 2025, National 1st (₹1,50,000)
-             💬 ask me about — React, Node.js, Flask, OCR/RAG pipelines
+             🏆 latest win - Smart India Hackathon 2025, National 1st (₹1,50,000)
+             💬 ask me about - React, Node.js, Flask, OCR/RAG pipelines
 ```
 
 <br/>
@@ -108,9 +108,9 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 
 | | Achievement | Organizer / Venue | Result |
 |:---:|---|---|---|
-| 🥇 | **Smart India Hackathon — National Level** | Ministry of Tribal Affairs (MoTA) · VSSUT, Burla | **1st place nationally · ₹1,50,000** — AI-powered MERN solution built in 36 hrs *(Dec 2025)* |
-| 🥇 | **TechXcelerate Hackathon** | BITS Pilani, Goa | **1st place · ₹50,000** — "Strategic Intelligence Model for the Indian Market" in 24 hrs *(Feb 2025)* |
-| 🏅 | **Smart India Hackathon — Finalist** | CGC, Jhanjeri, Punjab | Data-driven solution for standardizing odd school structure & resource allocation *(Dec 2024)* |
+| 🥇 | **Smart India Hackathon - National Level** | Ministry of Tribal Affairs (MoTA) · VSSUT, Burla | **1st place nationally · ₹1,50,000** - AI-powered MERN solution built in 36 hrs *(Dec 2025)* |
+| 🥇 | **TechXcelerate Hackathon** | BITS Pilani, Goa | **1st place · ₹50,000** - "Strategic Intelligence Model for the Indian Market" in 24 hrs *(Feb 2025)* |
+| 🏅 | **Smart India Hackathon - Finalist** | CGC, Jhanjeri, Punjab | Data-driven solution for standardizing odd school structure & resource allocation *(Dec 2024)* |
 | 📄 | **Research Paper Published** | Journal of Transactions in System Engineering (JTSE Tultech) | *"Real-Time Volume Control Using OpenCV"* *(Sep 2024)* |
 | 🎖️ | **Build With India Hackathon** | Google | Semi-Finalist *(Mar 2025)* |
 | 🎖️ | **MINDSPARK CodeJunkie** | COEP, Pune | Participant *(Aug 2023)* |
@@ -140,8 +140,8 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 ```
 [
   {
-    "role": "Government Software Developer (Hybrid) — SDE, Govt. of India",
-    "company": "Ministry of Tribal Affairs (MoTA), Govt. of India — Delhi, India",
+    "role": "Government Software Developer (Hybrid) - SDE, Govt. of India",
+    "company": "Ministry of Tribal Affairs (MoTA), Govt. of India - Delhi, India",
     "duration": "Oct 2025 – Present",
     "highlights": [
       "Smart India Hackathon 2025 national-winning project taken to production: an AI-powered FRA WebGIS Decision Support System (DSS) built on the MERN stack, with secure deployment and field validation across Maharashtra",
@@ -151,7 +151,7 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
   },
   {
     "role": "Software Engineer Trainee (Hybrid)",
-    "company": "Samku Technology & Consultancy — Charholi, Pune",
+    "company": "Samku Technology & Consultancy - Charholi, Pune",
     "duration": "Feb 2025 – Jul 2025",
     "highlights": [
       "Built EV Service & Store Management on the MERN stack with Razorpay integration, Leaflet Maps, and inventory management",
@@ -160,7 +160,7 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
   },
   {
     "role": "Junior Data Analyst & Web Developer (Remote)",
-    "company": "Radical Innovations Group — Helsinki, Finland",
+    "company": "Radical Innovations Group - Helsinki, Finland",
     "duration": "Nov 2024 – Mar 2025",
     "highlights": [
       "Resolved a critical OTP authentication issue via SMTP-based email verification for secure login",
@@ -182,7 +182,7 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 
 ### 🏙️ PCMC Intelligence Hub
 
-Full-stack **civic operations platform** for Pimpri Chinchwad Municipal Corporation — a no-login public issue-reporting portal paired with an authenticated ops dashboard for live triage, GPS-based incident mapping, and predictive risk insights. Runs entirely on free-tier external services (weather, AQI, geocoding, maps).
+Full-stack **civic operations platform** for Pimpri Chinchwad Municipal Corporation - a no-login public issue-reporting portal paired with an authenticated ops dashboard for live triage, GPS-based incident mapping, and predictive risk insights. Runs entirely on free-tier external services (weather, AQI, geocoding, maps).
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 
@@ -206,9 +206,9 @@ Production-style, **event-driven document-intelligence pipeline** for Indian gov
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Vidhur AI — College Enquiry Chatbot
+### 🎓 Vidhur AI - College Enquiry Chatbot
 
-Multilingual (EN/HI/MR) AI assistant covering 50+ Pune engineering colleges — admissions, fees, placements, and side-by-side comparisons — powered by Groq's Llama 3.1 8B with voice input, conversation memory, and exportable chat history.
+Multilingual (EN/HI/MR) AI assistant covering 50+ Pune engineering colleges - admissions, fees, placements, and side-by-side comparisons - powered by Groq's Llama 3.1 8B with voice input, conversation memory, and exportable chat history.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 
@@ -220,7 +220,7 @@ Multilingual (EN/HI/MR) AI assistant covering 50+ Pune engineering colleges — 
 
 ### 📂 Personal DocDrive
 
-Full-stack **Google Drive file manager** with a custom interface — multi-file upload, folder organization, color-labeling, previews, and granular sharing/permission controls, all wired through the Google Drive API.
+Full-stack **Google Drive file manager** with a custom interface - multi-file upload, folder organization, color-labeling, previews, and granular sharing/permission controls, all wired through the Google Drive API.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
 
@@ -232,7 +232,7 @@ Full-stack **Google Drive file manager** with a custom interface — multi-file 
 <tr>
 <td width="50%" valign="top">
 
-### 📺 Yo TV — Your Omni Television
+### 📺 Yo TV - Your Omni Television
 
 Live-TV streaming web app with a **YouTube-style custom video player** (HLS playback, Picture-in-Picture, full keyboard shortcuts, quality selection) built on top of the IPTV-org channel API, with MongoDB-backed favorites.
 
@@ -245,7 +245,7 @@ Live-TV streaming web app with a **YouTube-style custom video player** (HLS play
 
 ### 🛠️ YoServices
 
-Minimalist **service-showcase site** for a software studio — production websites, college projects, robotics, and custom software offerings, presented through a clean Next.js + Tailwind interface.
+Minimalist **service-showcase site** for a software studio - production websites, college projects, robotics, and custom software offerings, presented through a clean Next.js + Tailwind interface.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
@@ -261,9 +261,9 @@ Minimalist **service-showcase site** for a software studio — production websit
 <summary><b>▸ other builds</b></summary>
 <br/>
 
-- **📅 Study Streak Tracker** — a minimal 30-day study-streak tracker (Node/Express + MongoDB backend, vanilla JS frontend). [Repo →](https://github.com/dev-amolrakh/Study-Streak-Tracker)
-- **⚖️ NyayVaani** — AI legal platform offering instant IPC guidance, lawyer search, and secure chat/email support (React, Tailwind, Flask, MongoDB). [Live →](https://nyay-vaani.vercel.app/)
-- **⌨️ Vyx** — cross-platform Electron + React typing-practice app with JWT auth, offline caching, and license/payment verification workflows.
+- **📅 Study Streak Tracker** - a minimal 30-day study-streak tracker (Node/Express + MongoDB backend, vanilla JS frontend). [Repo →](https://github.com/dev-amolrakh/Study-Streak-Tracker)
+- **⚖️ NyayVaani** - AI legal platform offering instant IPC guidance, lawyer search, and secure chat/email support (React, Tailwind, Flask, MongoDB). [Live →](https://nyay-vaani.vercel.app/)
+- **⌨️ Vyx** - cross-platform Electron + React typing-practice app with JWT auth, offline caching, and license/payment verification workflows.
 
 </details>
 
@@ -273,9 +273,9 @@ Minimalist **service-showcase site** for a software studio — production websit
 
 <div align="center">
 
-**B.E. in AI & Data Science** — Ajeenkya D.Y. Patil School of Engineering, Pune *(2026)* — CGPA **8.06**
+**B.E. in AI & Data Science** - Ajeenkya D.Y. Patil School of Engineering, Pune *(2026)* - CGPA **8.06**
 <br/>
-**HSC** — V.S. Satav High School & Jr. College, Wagholi, Pune *(2022)* — **70%**
+**HSC** - V.S. Satav High School & Jr. College, Wagholi, Pune *(2022)* - **70%**
 
 </div>
 
