@@ -93,10 +93,6 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 ## `#` github-stats.sh
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amolrakh&theme=dark&background=0D1117&stroke=30363D&ring=22D3EE&fire=A855F7&currStreakLabel=34D399&hide_border=false" height="165" alt="streak stats"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amolrakh&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=A855F7&point=34D399&area=true" width="100%" alt="contribution activity graph"/>
 </div>
 
