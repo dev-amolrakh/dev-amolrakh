@@ -48,7 +48,7 @@ $ npm install amo-flash
 + amo-flash@1.0.0    # 📦 my first published npm package · open source · MIT
 ```
 
-### ⚡ Amo Flash — flash messages, beautifully alive
+### ⚡ Amo Flash - flash messages, beautifully alive
 
 A tiny, **framework-agnostic toast / flash-message library** I designed and built from scratch: a pill that morphs into place, a countdown you can see, smart ×N dedupe, one-pill loading → success promises and built-in Web Audio sound packs. Works with **React, Next.js, Vue, Svelte, Angular** and plain JavaScript (even a `<script>` tag). Zero dependencies, ~13 kB gzipped, accessible, and free for everyone.
 
