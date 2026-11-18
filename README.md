@@ -37,6 +37,63 @@ currently:   🔭 building AI-powered document intelligence & civic-tech platfor
 
 <br/>
 
+<!-- ===================== NEW: featured section (Amo Flash) ===================== -->
+
+## `#` featured.sh
+
+<div align="center">
+
+```bash
+$ npm install amo-flash
++ amo-flash@1.0.0    # 📦 my first published npm package · open source · MIT
+```
+
+### ⚡ Amo Flash — flash messages, beautifully alive
+
+A tiny, **framework-agnostic toast / flash-message library** I designed and built from scratch: a pill that morphs into place, a countdown you can see, smart ×N dedupe, one-pill loading → success promises and built-in Web Audio sound packs. Works with **React, Next.js, Vue, Svelte, Angular** and plain JavaScript (even a `<script>` tag). Zero dependencies, ~13 kB gzipped, accessible, and free for everyone.
+
+[![npm](https://img.shields.io/npm/v/amo-flash?style=for-the-badge&logo=npm&logoColor=white&label=npm&labelColor=0d1117&color=CB3837)](https://www.npmjs.com/package/amo-flash)
+[![downloads](https://img.shields.io/npm/dm/amo-flash?style=for-the-badge&label=downloads&labelColor=0d1117&color=34D399)](https://www.npmjs.com/package/amo-flash)
+[![size](https://img.shields.io/bundlephobia/minzip/amo-flash?style=for-the-badge&label=min%2Bgzip&labelColor=0d1117&color=22D3EE)](https://bundlephobia.com/package/amo-flash)
+[![license](https://img.shields.io/badge/license-MIT-0d1117?style=for-the-badge&labelColor=0d1117&color=A855F7)](https://github.com/dev-amolrakh/Amo-Flash/blob/main/LICENSE)
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Audio_API-0d1117?style=flat-square&color=222&labelColor=111"/> <img src="https://img.shields.io/badge/Zero_Dependencies-0d1117?style=flat-square&color=222&labelColor=111"/>
+
+[![Live Website](https://img.shields.io/badge/🔴_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amo-flash.vercel.app/)
+[![Docs](https://img.shields.io/badge/📘_Docs-0d1117?style=for-the-badge)](https://amo-flash.vercel.app/docs)
+[![Playground](https://img.shields.io/badge/🎛️_Playground-0d1117?style=for-the-badge)](https://amo-flash.vercel.app/playground)
+[![npm](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/amo-flash)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-amolrakh/Amo-Flash)
+
+</div>
+
+```ts
+import { flash } from "amo-flash";
+
+flash.success("Saved");
+flash.promise(saveProfile(), { loading: "Saving…", success: "Profile saved", error: "Save failed" });
+```
+
+<details>
+<summary><b>what's inside</b></summary>
+<br/>
+
+| | Highlights |
+|:---:|---|
+| 🎨 | Morph, drop, slide & fade entrances · animated icons · smooth width morph on update |
+| ⏱️ | 6 countdown styles that pause on hover / focus · deck or list stacking · 6 positions |
+| 🧠 | Smart dedupe (×N counter) · promise states in one pill · undo actions · swipe & Esc to dismiss |
+| 🔊 | 5 synthesized sound packs (no audio files) · unlocks on first tap, incl. iOS Safari |
+| ♿ | ARIA live regions · keyboard support · `prefers-reduced-motion` · auto text contrast on any colour |
+| 🧩 | Vanilla TS core + React / Vue / Svelte adapters · ESM, CJS & CDN builds · SSR-safe · full TypeScript types |
+
+</details>
+
+<!-- =================== END NEW: featured section (Amo Flash) =================== -->
+
+
+<br/>
+
 <h2 align="center">🎉 Hacktoberfest 2025 - Open Source Contribution</h2>
 
 [![An image of @devamolrakh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamolrakh)](https://holopin.io/@devamolrakh)
