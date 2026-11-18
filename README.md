@@ -53,7 +53,7 @@ $ npm install amo-flash
 A tiny, **framework-agnostic toast / flash-message library** I designed and built from scratch: a pill that morphs into place, a countdown you can see, smart ×N dedupe, one-pill loading → success promises and built-in Web Audio sound packs. Works with **React, Next.js, Vue, Svelte, Angular** and plain JavaScript (even a `<script>` tag). Zero dependencies, ~13 kB gzipped, accessible, and free for everyone.
 
 [![npm](https://img.shields.io/npm/v/amo-flash?style=for-the-badge&logo=npm&logoColor=white&label=npm&labelColor=0d1117&color=CB3837)](https://www.npmjs.com/package/amo-flash)
-[![downloads](https://img.shields.io/npm/dm/amo-flash?style=for-the-badge&label=downloads&labelColor=0d1117&color=34D399)](https://www.npmjs.com/package/amo-flash)
+
 [![size](https://img.shields.io/bundlephobia/minzip/amo-flash?style=for-the-badge&label=min%2Bgzip&labelColor=0d1117&color=22D3EE)](https://bundlephobia.com/package/amo-flash)
 [![license](https://img.shields.io/badge/license-MIT-0d1117?style=for-the-badge&labelColor=0d1117&color=A855F7)](https://github.com/dev-amolrakh/Amo-Flash/blob/main/LICENSE)
 
